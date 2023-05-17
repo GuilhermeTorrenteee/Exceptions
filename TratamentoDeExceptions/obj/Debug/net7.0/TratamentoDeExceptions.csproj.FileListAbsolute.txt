@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Projetos\TratamentoDeExceptions\TratamentoDeExceptions\bin\Debug\net7.0\TratamentoDeExceptions.exe
+C:\Users\Guilherme\Projetos\TratamentoDeExceptions\TratamentoDeExceptions\bin\Debug\net7.0\TratamentoDeExceptions.deps.json
+C:\Users\Guilherme\Projetos\TratamentoDeExceptions\TratamentoDeExceptions\bin\Debug\net7.0\TratamentoDeExceptions.runtimeconfig.json
+C:\Users\Guilherme\Projetos\TratamentoDeExceptions\TratamentoDeExceptions\bin\Debug\net7.0\TratamentoDeExceptions.dll
+C:\Users\Guilherme\Projetos\TratamentoDeExceptions\TratamentoDeExceptions\bin\Debug\net7.0\TratamentoDeExceptions.pdb
+C:\Users\Guilherme\Projetos\TratamentoDeExceptions\TratamentoDeExceptions\obj\Debug\net7.0\TratamentoDeExceptions.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Projetos\TratamentoDeExceptions\TratamentoDeExceptions\obj\Debug\net7.0\TratamentoDeExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Projetos\TratamentoDeExceptions\TratamentoDeExceptions\obj\Debug\net7.0\TratamentoDeExceptions.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Projetos\TratamentoDeExceptions\TratamentoDeExceptions\obj\Debug\net7.0\TratamentoDeExceptions.AssemblyInfo.cs
+C:\Users\Guilherme\Projetos\TratamentoDeExceptions\TratamentoDeExceptions\obj\Debug\net7.0\TratamentoDeExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Projetos\TratamentoDeExceptions\TratamentoDeExceptions\obj\Debug\net7.0\TratamentoDeExceptions.dll
+C:\Users\Guilherme\Projetos\TratamentoDeExceptions\TratamentoDeExceptions\obj\Debug\net7.0\refint\TratamentoDeExceptions.dll
+C:\Users\Guilherme\Projetos\TratamentoDeExceptions\TratamentoDeExceptions\obj\Debug\net7.0\TratamentoDeExceptions.pdb
+C:\Users\Guilherme\Projetos\TratamentoDeExceptions\TratamentoDeExceptions\obj\Debug\net7.0\TratamentoDeExceptions.genruntimeconfig.cache
+C:\Users\Guilherme\Projetos\TratamentoDeExceptions\TratamentoDeExceptions\obj\Debug\net7.0\ref\TratamentoDeExceptions.dll
